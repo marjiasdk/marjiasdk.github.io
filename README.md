@@ -8,3 +8,5 @@ The website is built using HTML and CSS and does not have any external dependenc
 # License
 
 This project is licensed under the MIT License, which means that you are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to certain conditions. Please see the license file for more details.
+
+N.B. Still need to make it responsive for mobile ☠️
