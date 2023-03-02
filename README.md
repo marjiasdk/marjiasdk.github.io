@@ -3,7 +3,7 @@
 This repository contains the HTML, CSS, and any other files needed to build my personal website. The site is hosted using GitHub Pages and can be accessed at https://marjiasdk.github.io.
 
 # Dependencies
-The website is built using HTML, CSS and Bootstrap and does not have any external dependencies. <br>
+The website is built using HTML and CSS and does not have any external dependencies. <br>
 
 # License
 
