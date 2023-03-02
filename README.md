@@ -4,7 +4,6 @@ This repository contains the HTML, CSS, and any other files needed to build my p
 
 # Dependencies
 The website is built using HTML, CSS and Bootstrap and does not have any external dependencies. <br>
-<i>Bootstrap still needs to be incorporated in order to make the site responsive.</i>
 
 # License
 
